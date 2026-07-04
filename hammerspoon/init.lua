@@ -38,4 +38,9 @@ require('keyboard.markdown')
 require('keyboard.panes')
 require('keyboard.windows')
 
+
+hs.hotkey.bind({'shift', 'ctrl', 'alt', 'cmd'}, '4', function()
+    keyUpDown({'shift', 'ctrl', 'cmd'}, '4')
+end)
+
 hs.notify.new({title='Hammerspoon', informativeText='Ready to rock 🤘'}):send()

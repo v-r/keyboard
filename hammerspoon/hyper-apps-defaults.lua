@@ -8,8 +8,8 @@ return {
   { 'b', 'Google Chrome' },     -- "B" for "Browser"
   { 'c', 'Slack' },             -- "C for "Chat"
   { 'f', 'Finder' },            -- "F" for "Finder"
-  { 'd', 'Sequel Pro' },        -- "D" for "Sequel Pro"
-  { 'e', '/Applications/Emacs.app' }, -- "E" for "Editor"
+  { 'd', 'MongoDB Compass' },        -- "D" for "Sequel Pro"
+  { 'e', '/Applications/Zed.app' }, -- "E" for "Editor"
   { 'g', 'Calendar' },          -- "G" for "Calendar"
   { 'l', 'Logseq' },          -- "G" for "Calendar"
   { 'm', 'Mail' },              -- "M" for "Mail"
@@ -18,6 +18,6 @@ return {
   { 's', 'Spotify' },           -- "S" for "Spotify"
   { 't', 'iTerm' },             -- "T" for "Terminal"
   { 'v', '/Applications/Visual Studio Code.app/Contents/MacOS/Electron' },   -- "V" for "Visual Studio code"
-  { 'w', 'Whatsapp' },          -- "W" for "WhatsApp"
+  { 'w', 'Webstorm' },          -- "W" for "WhatsApp"
   { 'S', 'Safari' },            -- "S" for "Safari"
 }
